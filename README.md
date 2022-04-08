@@ -24,7 +24,7 @@ the ammo value.
 Then it reads/writes this value as a proof-of-concept. The game will then reflect
 the newly written amount of ammunition.
 
-## Part 3
+### Part 3
 
 TODO
 
